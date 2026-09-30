@@ -1,3 +1,3 @@
-This was made in the Great Warwick Game Jam, in collaboration with OllyCodes and KeyboardSky.
+![Gecko's Revenge Logo](./logo-text.png)
 
-![Gecko's Revenge Logo](./assets/logo-text.png)
+This was made in the Great Warwick Game Jam 2025, in collaboration with OllyCodes and KeyboardSky.
